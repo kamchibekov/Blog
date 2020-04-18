@@ -1,0 +1,28 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Simple blog for my uncle's poems",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamchibekov/Blog.git"
+  },
+  "keywords": [
+    "blog",
+    "typescript",
+    "nodejs"
+  ],
+  "author": "Adilet Kamchibekov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamchibekov/Blog/issues"
+  },
+  "homepage": "https://github.com/kamchibekov/Blog#readme",
+  "devDependencies": {
+    "save-dev": "0.0.1-security",
+    "typescript": "^3.8.3"
+  }
+}
